@@ -20,7 +20,6 @@ torent_project/
 │   ├── downloads.txt  
 │   └── request.txt  
 ├── diagrams/  
-│   └── (по избор: блок-схема)  
 ├── Makefile  
 └── README.md
 
